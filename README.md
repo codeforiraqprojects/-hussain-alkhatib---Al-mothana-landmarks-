@@ -2,7 +2,6 @@
 # Al-mothana-landmarks
 تصميم موقع الكتروني يصف معالم مدينة المثنى
 مناقشتها وتطبيقها على أرض الواقع
-. كما تفتح المجال لجميع
 =======
 #  hussain-alkhatib / Al-mothana-landmarks 
  
